@@ -1,0 +1,19 @@
+{
+  "name": "proxy-protocol-v2",
+  "description": "Encoder and decoder for proxy protocol",
+  "version": "0.0.1",
+  "dependencies": {
+    "hexy": "^0.2.5",
+    "ip-address": "^4.0.0"
+  },
+  "engines": {
+    "iojs": "1.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ably/proxy-protocol-v2.git"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
