@@ -1,7 +1,7 @@
 {
   "name": "proxy-protocol-v2",
   "description": "Encoder and decoder for proxy protocol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "hexy": "^0.2.5",
     "ip-address": "^4.0.0"
